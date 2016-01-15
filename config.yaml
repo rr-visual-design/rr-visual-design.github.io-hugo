@@ -1,0 +1,8 @@
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://rr-visual-design.github.io/"
+title: "R&R Visual Design"
+canonifyurls: true
