@@ -65,7 +65,7 @@ theme = "hugo-creative-theme"
 
     [[params.services.list]]
 				icon = "fa-flag"
-				title = "Color Guard Choreography"
+				title = "Color Guard Choreo"
 				description = "From introductory to world-class, taught hands-on or by video. Flag, rifle, saber."
 
 		[[params.services.list]]
