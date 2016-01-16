@@ -58,25 +58,25 @@ theme = "hugo-creative-theme"
 	[params.services]
 		headline = "At your service"
 
-        [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+    [[params.services.list]]
+        icon = "fa-dot-circle-o"
+        title = "Drill and Visual Design"
+        description = "Unique drill and visual design to help you stand out amongst the competition."
 
-        [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
+    [[params.services.list]]
+				icon = "fa-flag"
+				title = "Color Guard Choreography"
+				description = "From introductory to world-class, taught hands-on or by video. Flag, rifle, saber."
 
 		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
+        icon = "fa-file-image-o"
+        title = "Graphic Design"
+        description = "Need graphics for social media, flyers, or to print for on-field scrims? We can do that."
 
-        [[params.services.list]]
-            icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+    [[params.services.list]]
+        icon = "fa-heart"
+        title = "Made with Love"
+        description = "We love what we do, and look forward to bringing something new to your ensemble!"
 
 
     # Portfolio modals
