@@ -41,15 +41,15 @@ theme = "hugo-creative-theme"
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Fresh, full-service design for the marching arts"
-		subtitle   = "R&R Visual Design brings you high quality program and visual design, and in-person education for marching and pageantry arts."
+		subtitle   = "R&R Visual Design brings you high quality program and visual design, and in-person education for the marching and pageantry arts."
 		buttonText = "Find out more"
 
 
 	# About section
 	[params.about]
 		headline    = "We've got what you need!"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
-		buttonText  = "Get started!"
+		description = "With more than 20 years combined performing, teaching, and designing for the marching and pageantry arts, Nick Radford and Tim Richardson are looking to expand their clientele. See our services below to see if we might be a fit!"
+		buttonText  = "View Services"
     link        = "#services"
 
 
