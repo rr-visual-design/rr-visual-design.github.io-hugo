@@ -2,9 +2,9 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-rm -rf public
+# rm -rf public
 
-git submodule add --force -b master git@github.com:rr-visual-design/rr-visual-design.github.io.git public
+# git submodule add --force -b master git@github.com:rr-visual-design/rr-visual-design.github.io.git public
 
 # Build the project.
 hugo -t hugo-creative-theme # if using a theme, replace by `hugo -t <yourtheme>`
