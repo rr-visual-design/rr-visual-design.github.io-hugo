@@ -48,7 +48,7 @@ theme = "hugo-creative-theme"
 	# About section
 	[params.about]
 		headline    = "We've got what you need!"
-		description = "With more than 20 years combined performing, teaching, and designing for the marching and pageantry arts, Nick Radford and Tim Richardson are looking to expand their clientele. See our services below to see if we might be a fit!"
+		description = "With more than 20 years combined performing, teaching, and designing for the marching and pageantry arts, <a href=''>Nick Radford</a> and Tim Richardson are looking to expand their clientele. See our services below to see if we might be a fit!"
 		buttonText  = "View Services"
     link        = "#services"
 
