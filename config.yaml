@@ -4,5 +4,5 @@ publishdir: "public"
 indexes:
   category: "categories"
 baseurl: "http://rr-visual-design.github.io/"
-title: "R&R Visual Design"
+title: "Radford Visual Design"
 canonifyurls: true
